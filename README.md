@@ -18,6 +18,10 @@ Advent Of Code 2025/
 │   ├── Day8.ps1         # Part 1: Junction box circuit analysis (PowerShell)
 │   ├── Day8Part2.js     # Part 2: Finding last connection in MST (JavaScript)
 │   └── input.txt        # Puzzle input
+├── Day 9/
+│   ├── Day8.js          # Part 1: 
+│   ├── 
+│   └── input.txt        # Puzzle input
 └── README.md            # This file
 ```
 
@@ -88,3 +92,4 @@ cd "Day 8"
 - Each solution reads from an `input.txt` file in the same directory
 - Input files are parsed according to the puzzle specifications
 - Solutions output results directly to the console
+
